@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-echo ">>>>>>>>>>>>>>";
+echo ">>>>>>>>>>>>>>>>";
 print_r($_SESSION);
 echo "<<<<<<<<<<<<<";
 ?>
