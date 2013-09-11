@@ -1,6 +1,4 @@
 <?php
 
-echo "test!!!!!!!!!!!!!!!!!!!!!!!!\n";
-echo "test!!!!!!!!!!!!!!!!!!!!!!!!";
-
+echo "test with git pust by manually"
 ?>
