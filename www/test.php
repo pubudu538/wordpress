@@ -1,4 +1,4 @@
 <?php
 
-echo "test push"
+echo "test automated update"
 ?>
